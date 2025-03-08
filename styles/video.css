@@ -67,7 +67,7 @@
   }
 }
 
-@media (max-width: 480px) {
+@media (max-width: 250px) {
   .video-grid {
     grid-template-columns: 1fr; 
   }
